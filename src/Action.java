@@ -24,4 +24,3 @@ abstract public class Action {
         return description;
     }
 }
-
